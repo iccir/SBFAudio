@@ -1,6 +1,6 @@
-# South Bay Fusion Audio Guide
+# South Bay Fusion
 
-## Setup
+## Audio Setup
 
 ### 1. Remove Equipment
 
