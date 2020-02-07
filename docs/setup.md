@@ -18,6 +18,8 @@ Remove the following equipment from our storage area:
 
 Set up the folding table on the west side of the room. Place tablecloth and audio rack on top. Unwind power cables and audio input cables.
 
+![](images/booth1.jpg)
+
 PHOTO OF DJ BOOTH PLACEMENT
 
 PHOTO OF UNWOUND AUDIO RACK
