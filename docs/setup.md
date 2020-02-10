@@ -143,4 +143,4 @@ Before using a microphone, ensure the following channel settings:
 
 When not playing audio, LEVEL and MAIN MIX should be kept at ∞. Here is a fully-configured mixer in the non-playing scenario:
 
-<a href="images/mixerthumb.jpg"><img src="images/mixerfull.jpg" alt="Configured Mixer" width="320" /></a>
+<a href="images/mixerfull.jpg"><img src="images/mixerthumb.jpg" alt="Configured Mixer" width="320" /></a>
