@@ -62,6 +62,8 @@ Place Speaker D on the opposite side of the room. Roughly align to Speaker C. No
 
 ### 7. Run speaker cables
 
+*Important: All speakers must be powered down during this step.*
+
 Locate the following four XLR cables:
 
 | Target Speaker | Strap Color   | Length   | 
@@ -91,14 +93,54 @@ Run cable D over the entryway and to Speaker D:
 
 <a href="images/cableD1.jpg"><img src="images/cableD1.jpg" alt="Cable D routing" width="426" height="320"/></a> <a href="images/cableD2.jpg"><img src="images/cableD2.jpg" alt="Cable D routing" width="426" height="320"/></a>
 
-### 7. Power on system
+### 9. Initialize system
 
-* Run power cables to remaining speakers.
-* 
+*Important: All speakers must be powered down until the end of this step.*
 
-Once all XLR cables are attached, the system may be powered on
+Return to the DJ Booth. Plug each XLR connector into its corresponding socket on the back of the audio rack.
+Set the following on the mixer:
 
+* Each LEVEL knob to ∞
+* MAIN MIX knob to ∞.
 
-### 7. Run power cables
+<a href="images/mixerinit.jpg"><img src="images/mixerinit.jpg" alt="Mixer Initialization" width="640" /></a>
 
+Proceed to power on the system as follows:
 
+* Plug in the audio rack and turn on the power switch in the top-right corner.
+* Run power cables from each speaker to the nearest outlet.
+* Power on all four speakers.
+
+**IMPORTANT:** From this point on, no equipment may be powered on without first powering off the speakers. Additionally, the LEVEL knob *MUST* be set to ∞ when connecting to or disconnecting from a channel.
+
+### 10. Configure Mixer
+
+First, ensure the following global settings:
+
+* Each PRE FADER SOLO is OFF (up position, depressed). When one of these are on, the "RUDE SOLO" light blinks.
+* CONTROL ROOM SOURCE is set to MAIN MIX only (down position), the other two buttons are OFF.
+* ASSIGN TO MAIN MIX is OFF.
+* CR/SUBMIX is ∞.
+* STEREO RETURNS are both ∞.
+
+Before playing music on a stereo channel, ensure the following channel settings:
+
+* BAL/HI/MID/LOW knobs are centered (straight up).
+* MUTE switch is OFF (up position, depressed).
+* LEVEL is near U.
+* MAIN MIX is near U.
+
+Before using a microphone, ensure the following channel settings:
+
+* LOW CUT is ON (down position, pressed).
+* GAIN is 30 (straight up).
+* HIGH is -3dB (11 o'clock).
+* MID is U (straight up)
+* LOW is -15dB (7 o'clock).
+* PAN is centered (straight up).
+* MUTE switch is OFF (up position, depressed).
+* MAIN MIX is near U.
+
+When not playing audio, LEVEL and MAIN MIX should be kept at ∞. Here is a fully-configured mixer in the non-playing scenario:
+
+<a href="images/mixerthumb.jpg"><img src="images/mixerfull.jpg" alt="Configured Mixer" width="320" /></a>
