@@ -9,5 +9,5 @@
 
 ### Guides
 
-* [Setup](setup.html)
-* [Teardown](teardown.html)
+* [Setup](https://iccir.github.io/SBFAudio/setup.html)
+* [Teardown](https://iccir.github.io/SBFAudio/teardown.html)
