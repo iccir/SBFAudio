@@ -1,6 +1,4 @@
-# South Bay Fusion Audio
-
-## Setup
+# South Bay Fusion Audio Setup
 
 ### 1. Remove Equipment
 
@@ -63,3 +61,50 @@ Place Speaker D on the opposite side of the room. Roughly align to Speaker C. No
 <a href="images/speakerD.jpg"><img src="images/speakerD.jpg" alt="Speaker D placement" width="320"/></a>
 
 ### 7. Run speaker cables
+
+Locate the following four XLR cables:
+
+| Target Speaker | Strap Color   | Length   | 
+| -------------- | ------------- | -------- |
+| A              | Red           | 65 feet  |
+| B              | Orange        | 50 feet  |
+| C              | Yellow        | 150 feet |
+| D              | Green         | 50 feet  |
+
+Run cables A, B, and C through the stairwell posts near the DJ booth:
+
+<PICTURE>
+ 
+Run cables A and B along the stage to their corresponding speaker. Plug the connector
+
+<a href="images/cableABC.jpg"><img src="images/cableABC.jpg" alt="Cable A/B/C routing" width="320"/></a>
+
+Run cable C to the stairwell on the opposite side of the room and through the posts. Utilize the hooks near the stairwell:
+
+<a href="images/cableC2.jpg"><img src="images/cableC2.jpg" alt="Cable C routing" width="320"/></a>
+
+Continue running cable C over the emergency exit door, again utilizing the hooks:
+
+<a href="images/cableC3.jpg"><img src="images/cableC3.jpg" alt="Cable C routing" width="640"/></a>
+
+Find the remaining two hooks near the window. Run cable through them and into Speaker C:
+
+<a href="images/cableC4.jpg"><img src="images/cableC4.jpg" alt="Cable C routing" width="320"/></a>
+
+Run cable D over the entryway and to Speaker D:
+
+<a href="images/cableD1.jpg"><img src="images/cableD1.jpg" alt="Cable D routing" width="320"/></a> <a href="images/cableD2.jpg"><img src="images/cableD2.jpg" alt="Cable D routing" width="320"/></a>
+
+<a href="images/cableD3.jpg"><img src="images/cableD3.jpg" alt="Cable D routing" width="320"/></a> <a href="images/cableD4.jpg"><img src="images/cableD4.jpg" alt="Cable D routing" width="320"/></a>
+
+### 7. Power on system
+
+* Run power cables to remaining speakers.
+* 
+
+Once all XLR cables are attached, the system may be powered on
+
+
+### 7. Run power cables
+
+
