@@ -23,14 +23,24 @@ Place Audio Rack on the table edge nearest the stage. Unwind power cables and au
 
 <a href="images/rack1.jpg"><img src="images/rack1.jpg" alt="DJ Booth rack 1" height="320"/></a> <a href="images/rack2.jpg"><img src="images/rack2.jpg" alt="DJ Booth rack 2" height="320"/></a>
 
+### 3. Set up Front Speakers
 
-### 3. Prepare Speakers
+Take Stand A and Stand B onto the stage. Using the floorboards as a guide, place each such that two legs align with the wall:
 
-On the back side of Speaker A and Speaker B, move the gain knob three clicks up.
+(IMAGE OF STAND A and STAND B placement)
+
+Place Speaker A and Speaker B onto their corresponding stands and raise them until the yellow line is visible.
+
+(TODO: TAPE 0º HOLE)
+(IMAGE OF YELLOW LINE)
+
+On the back side of both speakers, move the gain knob three clicks up and ensure that POWER is off.
 
 (IMAGE OF K8.2 BACK)
 
-On the back side of Speaker C and Speaker D, set the following settings:
+### 4. Set up Back Speakers
+
+On the back of Speaker C and Speaker D, set the following settings:
 
 * LEVEL to 9 o' clock
 * HIGH to 12 o'clock (straight up)
@@ -41,31 +51,13 @@ Each knob should have yellow guide lines. Simply align the yellow lines.
 
 (TODO: REMOVE PAINT AND REPAINT AT 9:00 POSITION)
 
-### 5. Place Front Speakers
-
-Take Stand A and Stand B onto the stage. Using the floorboards as a guide, place each such that two legs align with the wall:
-
-(IMAGE OF STAND A and STAND B placement)
-
-Place Speaker A and Speaker B onto their corresponding stands.
-
-(TODO: TAPE 0º HOLE)
-
-Raise each speaker on the pole until the yellow line is visible.
-
-(IMAGE OF YELLOW LINE)
-
-
-### 6. Place Rear Speakers
-
-### 4. Prepare Stands
+### 5. Place Back Speakers
 
 Expand the two speaker stands using the yellow guide lines. 
 
 <a href="images/stand1.jpg"><img src="images/stand1.jpg" alt="Speaker stand preparation 1" width="320"/></a> <a href="images/stand2.jpg"><img src="images/stand2.jpg" alt="Speaker stand preparation 2" width="320"/></a>
 
 Ensure that the safety pin is in place and most knobs are tightened. One knob is completely broken, but the safety pin should keep the stand upright. The other knobs are fragile (don't overtighten).
-
 
 Find the emergency exit on the east side of the room. There is a window to the immediate south. Place the stand such that the center pole is in line with the southern edge of the window. Place Speaker C on top of the stand.
 
@@ -75,7 +67,7 @@ Place Speaker D on the opposite side of the room. Roughly align to Speaker C. No
 
 <a href="images/speakerD.jpg"><img src="images/speakerD.jpg" alt="Speaker D placement" width="320"/></a>
 
-### 7. Run speaker cables
+### 6. Run speaker cables
 
 *Important: All speakers must be powered down during this step.*
 
@@ -108,7 +100,7 @@ Run cable D over the entryway and to Speaker D:
 
 <a href="images/cableD1.jpg"><img src="images/cableD1.jpg" alt="Cable D routing" width="426" height="320"/></a> <a href="images/cableD2.jpg"><img src="images/cableD2.jpg" alt="Cable D routing" width="426" height="320"/></a>
 
-### 9. Initialize system
+### 7. Initialize system
 
 *Important: All speakers must be powered down until the end of this step.*
 
@@ -128,7 +120,7 @@ Proceed to power on the system as follows:
 
 **IMPORTANT:** From this point on, no equipment may be powered on without first powering off the speakers. Additionally, the LEVEL knob *MUST* be set to ∞ when connecting to or disconnecting from a channel.
 
-### 10. Configure Mixer
+### 8. Configure Mixer
 
 First, ensure the following global settings:
 
