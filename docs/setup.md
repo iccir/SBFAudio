@@ -7,8 +7,9 @@ Remove the following equipment from our storage area:
 * 1x "Audio Rack"
 * 1x Folding table
 * 1x Black tablecloth
-* 4x Behringer B212D speakers
-* 2x speaker stands
+* 2x QSC K8.2 speakers
+* 2x Behringer B212D speakers
+* 4x speaker stands
 * 4x XLR cables
 * 4x Power cables
 
@@ -25,14 +26,37 @@ Place Audio Rack on the table edge nearest the stage. Unwind power cables and au
 
 ### 3. Prepare Speakers
 
-On the back side of each speaker, set the following settings:
+On the back side of Speaker A and Speaker B, move the gain knob three clicks up.
 
-* LEVEL to 10 o' clock
+(IMAGE OF K8.2 BACK)
+
+On the back side of Speaker C and Speaker D, set the following settings:
+
+* LEVEL to 9 o' clock
 * HIGH to 12 o'clock (straight up)
 * LOW to 12 o'clock (straight up)
 * POWER to OFF
 
 Each knob should have yellow guide lines. Simply align the yellow lines.
+
+(TODO: REMOVE PAINT AND REPAINT AT 9:00 POSITION)
+
+### 5. Place Front Speakers
+
+Take Stand A and Stand B onto the stage. Using the floorboards as a guide, place each such that two legs align with the wall:
+
+(IMAGE OF STAND A and STAND B placement)
+
+Place Speaker A and Speaker B onto their corresponding stands.
+
+(TODO: TAPE 0º HOLE)
+
+Raise each speaker on the pole until the yellow line is visible.
+
+(IMAGE OF YELLOW LINE)
+
+
+### 6. Place Rear Speakers
 
 ### 4. Prepare Stands
 
@@ -42,15 +66,6 @@ Expand the two speaker stands using the yellow guide lines.
 
 Ensure that the safety pin is in place and most knobs are tightened. One knob is completely broken, but the safety pin should keep the stand upright. The other knobs are fragile (don't overtighten).
 
-### 5. Place Front Speakers
-
-Face the stage. Place Speaker A on the right (east) side.
-
-<a href="images/speakerA.jpg"><img src="images/speakerA.jpg" alt="Speaker A placement" width="320"/></a>
-
-Place Speaker B on the left (west) side. Both speakers should "target" the window on the south side of the room. This is not an ideal placement, but it's the best we can do with our current equipment.
-
-### 6. Place Rear Speakers
 
 Find the emergency exit on the east side of the room. There is a window to the immediate south. Place the stand such that the center pole is in line with the southern edge of the window. Place Speaker C on top of the stand.
 
